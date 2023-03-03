@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+https://github.com/Kenzie-Academy-Brasil-Developers/Loja-Rpg-Back-End
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
